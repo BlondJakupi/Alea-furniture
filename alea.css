@@ -1,0 +1,47 @@
+.pembe{
+    background-color: pink;
+   padding: 10px;
+   width: 250px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
+.b1{
+   background-color: black; 
+   color: white;
+}
+.b2{
+    border-style: solid;
+    border-color: black;
+    color: black;
+    background-color: pink;
+}
+img{
+    width: 350px;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+.dyta{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.you{
+    width: 300px;
+}
+.treta{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    align-items: center;
+}
+.shop{
+   height: 150px;
+   width: 130px;
+}
+.fundi{
+    margin-right: 10px;
+}
