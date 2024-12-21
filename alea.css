@@ -1,0 +1,113 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 0px;   
+}
+.pembe{
+    background-color: pink;
+   padding: 10px;
+   width: 250px;
+}
+button{
+    padding: 10px;
+    border-radius: 5px;
+}
+.b1{
+   background-color: black; 
+   color: white;
+}
+.b2{
+    border-style: solid;
+    border-color: black;
+    color: black;
+    background-color: pink;
+}
+img{
+    width: 350px;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
+.dyta{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.you{
+    width: 300px;
+}
+.treta{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+    align-items: center;
+}
+.shop{
+   height: 150px;
+   width: 130px;   
+}
+.fundi{
+    margin-right: 10px;
+}
+.ok{
+    margin-top: -15px;
+    opacity: 0.4;
+}
+.ok1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.secila{
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    background-color: rgb(167, 164, 164);
+    padding: 15px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 300px;
+}
+.ngjyra{
+    height: 27px;
+    width: 27px;
+    border-radius: 13.5px;
+    margin-right: 5px;
+}
+.cart{
+    background-color: black;
+    color: white;
+    font-weight: 800;
+}
+.in{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+      
+}
+.sdi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+input{
+    width: 350px;
+    height: 45px;
+    margin-bottom: 10px;
+}
+.special{
+    height: 100px;
+}
+.send{
+    margin-top: 7px;
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+}
+.home{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
